@@ -4,5 +4,7 @@ langchain
 faiss-cpu
 PyMuPDF
 langchain-community
+tiktoken
+
 
 
